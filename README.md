@@ -1,2 +1,2 @@
-# Hospital Administration System and Appointment System
- This project involves a hospital Administration, patient registery and making appointment system. This is my first big size project. It includes approximately 6400 lines code. I took inspiration from Murat Yucedag Udemy Course but I added many different features.
+# Hospital Administration System and Appointment System with SQL
+ Developed my first large-scale codebase, approximately 6400 lines, for a Hospital Administration and Appointment System using C# with SQL. Efficiently manages hospital operations and patient appointments.
